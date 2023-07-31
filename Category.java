@@ -148,4 +148,7 @@ public class Category{
     		root.getChildren().addAll(langText);
     	}
     }
+    private void test() {
+    	
+    }
 }
