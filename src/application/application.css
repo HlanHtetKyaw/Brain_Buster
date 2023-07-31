@@ -1,0 +1,34 @@
+/*lets_start*/
+.lets_start {
+    -fx-background-color: #DF5A1C;
+    -fx-background-radius: 50px;
+    -fx-border-radius: 200;
+}
+.lets_start:pressed{
+	-fx-scale-x:0.86;
+	-fx-scale-y:0.86;
+}
+.lets_start:hover{
+	-fx-background-color: #20AB2E;
+}
+
+/*category_button*/
+.category_button{
+	-fx-background-color: WHITE;
+	-fx-background-radius: 50px;
+    -fx-border-radius: 200;
+}
+.category_button:hover{
+	-fx-background-color: BLACK;
+}
+.category_button:pressed{
+	-fx-scale-x:0.86;
+	-fx-scale-y:0.86;
+}
+
+/*category_in_button*/
+.category_in_button{
+	-fx-background-color: BLACK;
+	-fx-background-radius: 50px;
+    -fx-border-radius: 200;
+}
