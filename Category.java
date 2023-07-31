@@ -149,6 +149,6 @@ public class Category{
     	}
     }
     private void test() {
-    	
+    	int a;
     }
 }
